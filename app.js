@@ -3,7 +3,7 @@ function sortString(string) {
     return alert('please input a string')
   }
   addToSortedList(string.split('').sort().join(''))
-  return string.split('').sort().join('')
+  return 
 }
 
 const sortedList = [];
@@ -14,7 +14,7 @@ function addToSortedList(string) {
 
 function displayList(array) {
   array.forEach((word) => {
-    console.log(word)
+    return word
   })
 }
 
