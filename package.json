@@ -1,0 +1,22 @@
+{
+  "name": "charsortinator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimsancan/CharSortinator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimsancan/CharSortinator/issues"
+  },
+  "homepage": "https://github.com/jimsancan/CharSortinator#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
